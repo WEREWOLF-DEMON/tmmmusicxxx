@@ -14,6 +14,7 @@ heroku()
 
 app = Dil()
 userbot = Userbot()
+api = SafoneAPI()
 
 
 from .platforms import *
